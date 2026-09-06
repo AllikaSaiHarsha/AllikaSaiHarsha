@@ -29,6 +29,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllikaSaiHarsha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllikaSaiHarsha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 # ⚖️ Legal Metrology Vision System
 
 A comprehensive, full-stack Cloud & AI ecosystem designed for Legal Metrology officers in India to verify Rule 6 packaging compliance in the field. 
