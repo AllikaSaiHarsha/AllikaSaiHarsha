@@ -1,4 +1,9 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=B.Tech+Computer+Science+Undergrad;Full-Stack+%26+Cloud+Microservices;Building+AI+Vision+Systems" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
 
 # Hi, I'm Sai Harsha 👋
 ### B.Tech in Computer Science & Engineering | Full-Stack & AI Vision
