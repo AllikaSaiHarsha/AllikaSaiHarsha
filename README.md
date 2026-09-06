@@ -9,7 +9,7 @@
 ### B.Tech in Computer Science & Engineering | Full-Stack & AI Vision
 
 <p align="center">
-  Building high-leverage cloud architectures, mobile tooling, and computer vision pipelines.
+  Building high-leverage cloud architectures, mobile tooling, and computer vision pipelines
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
