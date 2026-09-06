@@ -36,7 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllikaSaiHarsha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🌟 Featured Architecture: Legal Metrology Vision System
+
 
 # ⚖️ Legal Metrology Vision System
 
