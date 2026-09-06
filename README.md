@@ -1,3 +1,21 @@
+<div align="center">
+
+# Hi, I'm Sai Harsha 👋
+### B.Tech in Computer Science & Engineering | Full-Stack & AI Vision
+
+<p align="center">
+  Building high-leverage cloud architectures, mobile tooling, and computer vision pipelines.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+
 # ⚖️ Legal Metrology Vision System
 
 A comprehensive, full-stack Cloud & AI ecosystem designed for Legal Metrology officers in India to verify Rule 6 packaging compliance in the field. 
